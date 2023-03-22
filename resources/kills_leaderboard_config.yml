@@ -1,0 +1,7 @@
+firstline: "&b--[ &e&lTopKills Leaderboard&r &b]--"
+top1: "&61. &3{PLAYER}: &7{KILLS} kills"
+top2: "&82. &3{PLAYER}: &7{KILLS} kills"
+top3: "&c3. &3{PLAYER}: &7{KILLS} kills"
+topbelow3: "&4{POSITION}. &3{PLAYER}: &7{KILLS} kills"
+finalline: '&b-------------------------------'
+leaderboard-limit: 10

@@ -1,0 +1,11 @@
+name: VegaLeaderboards
+main: SVega9848\VegaLeaderboards\Loader
+version: 1.0.0
+api: [4.0.0]
+author: SVega9848
+description: Display leaderboards in your server!
+
+permissions:
+  leaderboards.cmd:
+    description: Leaderboards!
+    default: op
