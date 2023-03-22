@@ -5,4 +5,5 @@ branches:
 projects:
   VegaLeaderboards:
     path: ""
+    icon: "logo.png"
 ...
