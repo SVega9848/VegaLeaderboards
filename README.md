@@ -35,7 +35,7 @@ If you want to use colors use &. There are also certain codes to use in the edit
 
 The only permission this plugin has is:
 ```yaml
-  - leaderboards.cmd -> Allows you to use the command
+  - vegaleaderboards.cmd -> Allows you to use the command
 ```
 
 ## Plugin Review
