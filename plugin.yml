@@ -6,6 +6,6 @@ author: SVega9848
 description: Display leaderboards in your server!
 
 permissions:
-  leaderboards.cmd:
+  vegaleaderboards.cmd:
     description: Leaderboards!
     default: op
